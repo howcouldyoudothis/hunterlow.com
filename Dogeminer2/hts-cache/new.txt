@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:34:48	13052/13052	---MCZ	403	error ('Forbidden')	text/html	date:Sat,%2026%20Feb%202022%2018:34:46%20GMT	https://dogeminer2.com/	C:/My%20Web%20Sites/Dogeminer2/dogeminer2.com/index.html	(from )
+13:34:48	161/161	---M--	200	added ('OK')	text/plain	etag:%224ecb761161696dd1d19c1973045d0215%22	https://dogeminer2.com/robots.txt		(from )
